@@ -1,0 +1,23 @@
+.row_number{
+    display: flex;
+}
+.input-value{
+    width: 20%;
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+    border: 2px solid white;
+    background: rgb(120,40,33);
+    background: linear-gradient(90deg, rgba(120,40,33,1) 0%, rgba(177,75,94,1) 35%, rgba(140,36,49,1) 100%);
+    color: white;
+    font-weight: 800;
+    font-size: 20px;
+    cursor: pointer;
+}
+.number{
+    height: 40px;
+    border-radius: 4px;
+    border: 3px solid green;
+    color: palevioletred;
+    font-weight: 800;
+}
